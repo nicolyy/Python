@@ -1,0 +1,1 @@
+#Modifique o programa anterior para que aceite respostas com letras maiusculas e minusculas em todas as questoes.

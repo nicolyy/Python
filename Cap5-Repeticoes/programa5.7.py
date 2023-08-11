@@ -1,0 +1,1 @@
+#Modifique o programa anterior de forma que o usuario tambem digite o inicio e o fim da tabuada, em vez de comecar com 1 e 10.
