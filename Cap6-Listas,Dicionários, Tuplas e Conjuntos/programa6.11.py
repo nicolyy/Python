@@ -1,0 +1,1 @@
+#Modifique o programa 6.6 usando for. Explique por que nem todos os while podem ser transformados em for.
