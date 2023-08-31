@@ -1,0 +1,1 @@
+#Altere o programa 6.11 de forma a imprimir o menor elemento da lista

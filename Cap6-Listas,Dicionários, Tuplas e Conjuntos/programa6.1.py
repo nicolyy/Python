@@ -1,0 +1,1 @@
+#Modifique o programa 6.2 para ler 7 notas em vez de 5
